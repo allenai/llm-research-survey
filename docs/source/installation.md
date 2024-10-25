@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**llm-research-survey** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**llm-research-survey** is available [on PyPI](https://pypi.org/project/llm-research-survey/). Just run
 
 ```bash
-pip install my-package
+pip install llm-research-survey
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **llm-research-survey** from source, first clone [the repository](https://github.com/allenai/llm-research-survey):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/allenai/llm-research-survey.git
+cd llm-research-survey
 ```
 
 Then run

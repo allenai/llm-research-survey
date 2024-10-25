@@ -1,4 +1,4 @@
-# **my-package**
+# **llm-research-survey**
 
 ```{toctree}
 :maxdepth: 2
@@ -15,8 +15,8 @@ overview
 
 CHANGELOG
 CONTRIBUTING
-License <https://raw.githubusercontent.com/allenai/python-package-template/main/LICENSE>
-GitHub Repository <https://github.com/allenai/python-package-template>
+License <https://raw.githubusercontent.com/allenai/llm-research-survey/main/LICENSE>
+GitHub Repository <https://github.com/allenai/llm-research-survey>
 ```
 
 ## Indices and tables
