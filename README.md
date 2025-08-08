@@ -1,5 +1,5 @@
 # llm-research-survey
-Please find survey questions and results in the **data** folder.
+Please find survey questions, raw results, and analysis code in the **data** folder.
 
 Overview of the raw and processed survey results		
 
